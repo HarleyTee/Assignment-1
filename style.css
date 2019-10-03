@@ -1,18 +1,21 @@
 body {
-  background-color: white;
+  background-color: black;
 }
 h1 {
-  color: black;
+  color: white;
 }
 h2 {
-  color: black;
+  color: white;
 }
 h3 {
-  color:black;
+  color:white;
 }
 h4 {
-  color:black;
+  color:white;
 }
 p {
-  color: black;
+  color: white;
+}
+li {
+  color: white;
 }
